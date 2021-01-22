@@ -1,6 +1,4 @@
 # my-website
 This is really awesome website
 
-Now Editing on update-readme branch 
-
-Updated locally 
+Updates made easy on main on gitHub before rebase 
